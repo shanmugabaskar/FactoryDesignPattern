@@ -1,7 +1,7 @@
-﻿using FactoryDesignPattern.CardType;
-using FactoryDesignPattern.ICardType;
+﻿using FactoryDesignPattern.CreditCard.CardType;
+using FactoryDesignPattern.CreditCard.ICardType;
 
-namespace FactoryDesignPattern.Factory
+namespace FactoryDesignPattern.CreditCard.Factory
 {
     internal class CreditCardFactory
     {
