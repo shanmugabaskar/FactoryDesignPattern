@@ -1,6 +1,6 @@
-﻿using FactoryDesignPattern.ICardType;
+﻿using FactoryDesignPattern.CreditCard.ICardType;
 
-namespace FactoryDesignPattern.CardType
+namespace FactoryDesignPattern.CreditCard.CardType
 {
     internal class Titanium : ICreditCard
     {

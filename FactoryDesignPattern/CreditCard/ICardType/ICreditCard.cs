@@ -1,4 +1,4 @@
-﻿namespace FactoryDesignPattern.ICardType
+﻿namespace FactoryDesignPattern.CreditCard.ICardType
 {
     internal interface ICreditCard
     {
